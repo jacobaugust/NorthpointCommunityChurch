@@ -1,0 +1,143 @@
+a:hover {
+  font-size: 150%;
+  color: white;
+  text-decoration: underline black 1px;
+}
+
+.navbar-light {
+  margin: auto;
+  padding: 30px;
+}
+
+.navbar-light .navbar-brand{
+  font-weight: bold;
+  font-family: Papyrus, serif;
+  
+}
+/*drop down font*/
+.navbar-light .navbar-nav > li {
+  font-family: Papyrus, serif;
+  
+}
+
+
+p.type {
+	font-family: Pap, Times, sans-serif;
+	font-size: 1em;
+	color: black;
+}
+img.centeredpic {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+h1.standout {
+	font-size: 1.8em;
+	font-weight: 600;
+	color: black;
+	line-height: 2em;
+	font-family: Papyrus, sans-serif;
+}
+h2 {
+	font-family: Papyrus, sans-serif;
+}
+p.second {
+	font-family: "Courier New", Courier, sans-serif;
+	color: gray;
+}
+body{
+	background-color: #fff9f4;
+}
+h3 {
+	font-size: 1.5em;
+	font-weight: 900;
+	color: #FF0505;
+	line-height: 2em;
+	font-family: Times, sans-serif;
+}
+p.italic {
+	font-style: italic;
+}
+.spacing {
+	letter-spacing: .5em;
+}
+p.readable {
+	line-height: 3em;
+}
+.center {
+	text-align: center;
+	
+}
+.dates {
+	text-align: right;
+}
+
+.margin {
+	margin: 2em;
+}
+.doubleborder {
+	border: 3px double #FFFB05;
+}
+.regularborder {
+	border: 1px solid black;
+}
+.dashedborder {
+	border-top: 6px dashed black;
+	border-bottom: 6px dashed black;
+}
+div#main {
+	margin: 1em 2em 1em 2em;
+}
+div#hardcore {
+	font-weight: 900;
+	border: 3px ridge yellow;
+}
+th, td {
+	border: 3px double white;
+}
+th.toprow {
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+}
+.middle {
+  position: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p.indent {
+	text-indent: 2.5em;
+}
+
+/*navbar dropdown font*/
+
+.nav-pills .pill-1 .nav-link {
+  background-color: #e3f2fd;
+  color: black;
+  box-shadow: 0px -10px 20px -9px #095659;
+  position: relative;
+  border: 2px solid aliceblue;
+}
+.nav-pills .pill-2 .nav-link {
+  background-color: #e3f2fd;
+  color: black;
+  box-shadow: 0px -10px 20px -9px #095659;
+  position: relative;
+  border: 2px solid aliceblue;
+}
+
+.nav-pills .pill-3 .nav-link {
+  background-color: #e3f2fd;
+  color: black;
+  box-shadow: 0px -10px 20px -9px #095659;
+  position: relative;
+  border: 2px solid aliceblue;
+}
+
+.nav-pills .pill-4 .nav-link {
+  background-color: #e3f2fd;
+  color: black;
+  box-shadow: 0px -10px 20px -9px #095659;
+  position: relative;
+  border: 2px solid aliceblue;
+}
